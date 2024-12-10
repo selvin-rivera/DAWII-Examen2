@@ -14,7 +14,9 @@ export default function NavBar() {
                 </Link>
             </li>
             <li className="nav-item">
-                <Link className="nav-link active" href="/count">Cantidad Producto (Count)</Link>
+                      <Link className="nav-link active" href="/count">
+                          Cantidad Producto (Count)
+                      </Link>
             </li>
             
             <li className="nav-item">
